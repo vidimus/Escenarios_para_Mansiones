@@ -8,3 +8,5 @@ C:\ indica la unidad donde tengáis instalado el juego, y el USER en mayúsculas
 
 
 Una vez en esa carpeta, sólo hay que pegar el siguiente archivo y sustituir el que ya está
+
+<b>NOTA:</b> Algunas traducciones necesitan revisión, pero se dejaron así cuando los autores no dieron más señalaes y los proyectos fueron arrinconados a la espera de nuevas noticias. Si quieres ayudar con la revisión, puedes abrir un tema en este repositorio y colgar capturas de pantalla con los errores o sugerencias. 
