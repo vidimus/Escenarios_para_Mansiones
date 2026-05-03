@@ -1,0 +1,337 @@
+.,Spanish
+quest.name,La niebla que no cesa
+quest.description,Una espesa niebla se ha instalado alrededor de la mansión Winthrope. Hace semanas que nadie ha visto al señor Winthrope y hay personas que afirman haber visto unas siluetas deformes merodeando entre la niebla.
+TokenPortal2.button1,{action} Tratar de cerrar el portal
+TokenPortal3.button1,{action} Tratar de cerrar el portal
+TokenMansionDoor.button1,{action} Entrar en la mansión Winthrope
+TokenPortal.button1,{action} Buscar
+TokenLobP1.button1,{action} Examinar el cuadro
+TokenLob4.button1,{action} Explorar
+TokenLob1.button1,{action} Explorar
+TokenLob3.button1,{action} Explorar
+TokenLibD1.button1,{action} Explorar
+TokenLob2.button1,{action} Explorar
+TokenHall2.button1,{action} Explorar
+TokenHall1.button1,{action} Explorar
+TokenKitD1.button1,{action} Explorar
+TokenOfficeD1.button1,{action} Explorar
+TokenHall3.button1,{action} Explorar
+TokenBall2.button1,{action} Explorar
+TokenBallD1.button1,{action} Explorar
+TokenB1.button1,{action} Explorar
+TokenBath1.button1,{action} Explorar
+TokenB2.button1,{action} Explorar
+TokenCellar1.button1,{action} Explorar
+TokenSearch1.button1,{action} Buscar
+EventPuzzle.button1,{action} Buscar
+TokenLobT2.button1,{action} Buscar
+TokenRat.button1,{action} Buscar
+TokenWindow.button1,{action} Buscar
+TokenBed.button1,{action} Buscar
+TokenLobT1.button1,{action} Buscar
+TokenDiningTable.button1,{action} Buscar
+TokenPiano.button1,{action} Buscar
+TokenDesk.button1,{action} Buscar
+TokenLobT3.button1,{action} Buscar
+TokenSedative.button1,{action} Buscar
+TokenB2Dresser.button1,{action} Buscar
+TokenB2bed.button1,{action} Buscar
+TokenB2bucket.button1,{action} Buscar
+TokenLib1.button1,{action} Examinar la obstrucción
+TokenLibS2.button1,{action} Examinar la obstrucción
+TokenLob5.button1,{action} Forzar la puerta
+EventGhostDefeated.text,"A medida que la aparición fantasmal se desvanece, oyes un tenue susurro: \n «Gracias». \n Todos los investigadores en el Dormitorio ganan 1 Pista {clue} y adquieren el estado Concentrado."
+TokenBath1.text,"Justo delante tienes la puerta del cuarto de baño. Parece que alguien ha escrito algo de forma apresurada sobre la puerta: «NO ABRIR»... \n ¿Podría ser una advertencia?.. ¿Sería prudente abrirla?... \n ¡¿Qué podría ser peor que lo que ya has encontrado?!"
+EventSetElimination.text,Cuando un investigador es eliminado, la partida termina al final de la siguiente fase de investigadores. Al final de esa fase de investigadores, pulsa el botón «Finalizar la partida».
+EventReadDiary2.text,"Continúas leyendo; el contenido del diario va degenerando y llenándose de entradas más propias de un demente o de una mente que divaga: «¿Investigación sobre nigromancia?»..«¿Qué hay de la brujería vudú?»... \n Pasas a la última entrada del diario... \n «Sí, sí, todos lo han entendido al revés; en lugar de animar a los muertos se podría canalizar la energía negativa para sanar y restaurar la vida». \n Sufres 1 de Horror (anulado por {lore}: -1). \n Ganas el Objeto único {c:QItem15} y 1 Pista {clue}."
+EventLibraryD5.text,"Una barricada parece estar bloqueando la puerta. \n Haz una tirada de {strength} para forzar la puerta y abrirla."
+TokenLib1.text,Una silla y varios libros están apilados contra la puerta; la improvisada barricada impide que la puerta se abra.
+TokenLobT1.text,En el centro del vestíbulo hay una mesa circular.
+TokenOfficeD1.text,Una puerta conduce de nuevo al vestíbulo.
+TokenHall3.text,Una puerta conduce de nuevo al vestíbulo.
+TokenLibD1.text,Una puerta conduce al interior de la mansión.
+TokenBall2.text,Una puerta conduce a la parte trasera de la mansión.
+TokenLob2.text,Una puerta de caoba conduce al interior de la mansión.
+TokenHall1.text,Una sencilla puerta de madera conduce al interior de la mansión.
+TokenKitD1.text,Una sencilla puerta de madera da acceso a la cocina.
+EventLobP1.text,"Una placa debajo de la pintura identifica a la persona como señor Earl Winthrope III, el actual Señor de la mansión Winthrope. \n Ganas 1 Pista {clue}."
+EventSpawn0.text,Un cadáver putrefacto sale arrastrándose del interior del desagüe.
+TokenLob4.text,La puerta tiene un letrero: «BIBLIOTECA».
+UIIntroText.uitext,"Una densa niebla se ha asentado alrededor de la Mansión Winthrope. Nadie ha visto al señor Winthrope en semanas y hay noticias sobre figuras deformes acechando en la bruma. En el pueblo hay cada vez más rumores y amenazan con manchar el buen nombre de esta orgullosa y noble familia. \n\n La hermana menor del señor Winthrope, Grace, teme por el bienestar y la cordura de su hermano tras la muerte de su amada esposa hace varias semanas, pero no ha sido capaz de obligarse a entrar en la finca, dominada ahora por la oscuridad. Es por ello os ha pedido que os aventuréis en la Mansión Winthrope, localicéis al señor Winthrope, determinéis por qué ha aparecido la niebla y pongáis fin a esta… eventualidad antinatural, protegiendo así la reputación del apellido Winthrope. \n "
+quest.synopsys,Una densa niebla se ha asentado alrededor de la Mansión Winthrope. Nadie ha visto al señor Winthrope en semanas.
+TokenBallD1.text,Una puerta ornamentada conduce de vuelta hacia el vestíbulo.
+TokenDesk.text,Un ornamentado escritorio de caoba ocupa gran parte de la habitación.
+EventSight1.text,y añade una ficha de Vistazo al final del pasillo.
+EventDinSearch.text,y finalmente, coloca una ficha de Búsqueda en el lugar señalado.
+EventHall2Sight.text,y finalmente, coloca una ficha de Vistazo y una ficha de Interacción en el lugar señalado.
+EventSightFog.text,y finalmente coloca una ficha de Interacción en el lugar señalado.
+EventLobbySearch.text,y finalmente coloca fichas de Búsqueda en los siguientes lugares.
+EventTest2.text,y aquí,
+EventTest1.text,y aquí,
+EventBedSearch.text,y coloca las fichas de Búsqueda en los lugares señalados.
+EventOfficeDesk.text,y coloca las fichas de Búsqueda en los lugares señalados.
+TokenFog1.text,Al acercarte al final del pasillo ves unas escaleras que bajan al sótano; te das cuenta de que tendrás que descender y entrar en la niebla para seguir adelante.
+EventPortalFail3.text,Mientras intentas cerrar el portal, la niebla reacciona con furia, espesándose en una forma bulbosa similar a un puño y golpeándote; sufres 1 de Daño (anulado por {agility}: 2). La bruma retorna a su forma normal. La distracción ha hecho que un par de los tentáculos negros dejen de sujetar el cuerpo de señor Winthrope.
+EventRat.text,"Cuando terminas de buscar en la mesa del comedor, oyes golpes y ruidos sordos provenientes de un oscuro rincón de la cocina. \n Coloca una ficha de Búsqueda en el lugar señalado."
+TokenPortal.text,Al acercarte al portal, notas que los tentáculos negros adheridos a los restos de señor Winthrope parecen estar absorbiendo energía o fuerza vital y transfiriéndola hacia el interior del portal.
+EventLadyGhost.text,"Mientras te acercas con vacilación a la cama para inspeccionar el cuerpo, una aparición fantasmal de la bella Lady Winthrope surge a través del lecho. \n Parece estar llorando y te suplica que pongas fin a su sufrimiento. De repente su rostro se tuerce y se distorsiona en una horrible mueca de grito y se lanza hacia ti con dedos extendidos como garras."
+EventAttempt4.text,"Al observar la niebla retorcida que sale del portal, utilizas la información obtenida del objeto único para localizar un punto débil. \n Haz una tirada de {observation} para usar el objeto."
+EventAttempt5.text,"A medida que observas la bruma serpenteante salir del portal, utilizas la información obtenida del objeto único para localizar un punto débil. \n Haz una tirada de {observation} para usar el objeto."
+EventAttempt6.text,"A medida que observas la bruma serpenteante salir del portal, utilizas la información obtenida del objeto único para localizar un punto débil. \n Haz una tirada de {observation} para usar el objeto."
+TokenPuzzle.button1,Button1
+EventPuzzle.button2,Cancelar
+EventKillRat.button2,Cancelar
+EventSearchOffDesk.button2,Cancelar
+EventGameWin.text,"¡¡Enhorabuena!! \n Has cerrado el portal con éxito y has evitado que las aberraciones no muertas entren en nuestra realidad."
+EventInvestigators.button1,Continuar
+TokenInvestigators.button1,Continuar
+EventStart.button1,Continuar
+EventSearchToken.button1,Continuar
+UI3.uitext,Continuar
+EventMansionDoor.button1,Continuar
+EventLobby.button1,Continuar
+EventSpawn0.button1,Continuar
+EventLobbyWall1.button1,Continuar
+EventLobbyDoors.button1,Continuar
+EventLobbySearch.button1,Continuar
+EventLibraryD4.button1,Continuar
+EventLibD1.button1,Continuar
+EventLibS1.button1,Continuar
+EventLibraryD5.button1,Continuar
+EventLibraryD5.button2,Continuar
+EventD5pass.button1,Continuar
+Spawn0.button1,Continuar
+EventLibraryRevealed.button1,Continuar
+EventD5fail.button1,Continuar
+EventSearchT1.button1,Continuar
+EventSearchT2.button1,Continuar
+EventSearchT3.button1,Continuar
+EventDismantleBarricade.button1,Continuar
+EventPuzzleComplete.button1,Continuar
+EventPhoneDead.button1,Continuar
+EventLobP1.button1,Continuar
+EventDiningRoom.button1,Continuar
+EventDinW1.button1,Continuar
+EventDinD1.button1,Continuar
+EventDinSearch.button1,Continuar
+EventSearchD1.button1,Continuar
+EventSearchD2.button1,Continuar
+EventSearchD3.button1,Continuar
+EventRat.button1,Continuar
+EventRatDiscovered.button1,Continuar
+EventKillRat.button1,Continuar
+EventRatItem.button1,Continuar
+EventBallroomBlocked.button1,Continuar
+EventBallroom.button1,Continuar
+EventBallD1.button1,Continuar
+EventBallSearch.button1,Continuar
+EventPiano.button1,Continuar
+EventBallWindow.button1,Continuar
+Spawn1.button1,Continuar
+EventSpawnSkeleton.button1,Continuar
+EventOffice.button1,Continuar
+EventOfficeD1.button1,Continuar
+EventOfficeDesk.button1,Continuar
+UI3.button1,Continuar
+EventReadDiary2.button1,Continuar
+EventWhiskey.button1,Continuar
+EventHall1Revealed.button1,Continuar
+EventHall1.button1,Continuar
+EventBathroom.button1,Continuar
+EventHall1Doors.button1,Continuar
+EventSight1.button1,Continuar
+EventSearchT4.button1,Continuar
+EventYouMayMove.button1,Continuar
+EventTest1.button1,Continuar
+EventTest2.button1,Continuar
+EventHall2Walls.button1,Continuar
+EventHall2Doors.button1,Continuar
+EventSightFog.button1,Continuar
+EventHall2Door2.button1,Continuar
+EventHall2Hall1.button1,Continuar
+EventHall1andHall2Revealed.button1,Continuar
+EventHall2Sight.button1,Continuar
+EventHall1andBallRevealed.button1,Continuar
+EventHall1Din.button1,Continuar
+EventHall1Off.button1,Continuar
+EventHall1DinOff.button1,Continuar
+EventBallLibDoor.button1,Continuar
+TokenFog1.button1,Continuar
+EventNoGo.button1,Continuar
+EventMustGo.button1,Continuar
+EventCelDoor.button1,Continuar
+EventBedroomReveal.button1,Continuar
+EventBedSearch.button1,Continuar
+EventBedDesk1.button1,Continuar
+EventLadyGhost.button1,Continuar
+Spawn2.button1,Continuar
+EventGhostDefeated.button1,Continuar
+TokenToilet.button1,Continuar
+EventToilet.button1,Continuar
+EventBed2.button1,Continuar
+EventBed2search.button1,Continuar
+EventBucket.button1,Continuar
+EventB2bed.button1,Continuar
+EventB2Dresser.button1,Continuar
+EventBedDesk2.button1,Continuar
+EventBedDesk3.button1,Continuar
+EventBarBroken.button1,Continuar
+EventCellarRevealed.button1,Continuar
+EventCellarW1.button1,Continuar
+EventDarkFog.button1,Continuar
+EventEarl.button1,Continuar
+EventPortal.button1,Continuar
+Spawn3.button1,Continuar
+EventPortalPass.button1,Continuar
+EventPortalFail1.button1,Continuar
+TokenEarl.button1,Continuar
+EventSetElimination.button1,Continuar
+EventTimerFail.button1,Continuar
+EventAttempt1.button1,Continuar
+EventAttempt2.button1,Continuar
+EventAttempt3.button1,Continuar
+EventBreathe.button1,Continuar
+EventPortalFail2.button1,Continuar
+EventPortalFail3.button1,Continuar
+EventAttempt4.button1,Continuar
+EventAttempt7.button1,Continuar
+EventAttempt5.button1,Continuar
+EventAttempt8.button1,Continuar
+EventAttempt6.button1,Continuar
+EventAttempt9.button1,Continuar
+EventAttempt4.button2,Continuar
+EventReadDiary.button1,Seguir leyendo
+quest.authors,"Creado por Randall Preuss\n\nTraducción al español: Vidimus"
+EventNoGo.text,Cada vez que intentas avanzar por las escaleras vacilas. La sensación de que los tentáculos de niebla entran en tus pulmones y te asfixian hacen que el terror te paralice y no eres capaz de continuar bajando hacia el sótano. Tal vez no sea una buena idea...
+TokenToilet.text,¡Puaj, no!... de ninguna manera vas a meter la mano ahí dentro.
+EventEliminated.button1,Terminar la partida
+EventGameWin.button1,Terminar la partida
+UI6.button1,Terminar la partida
+PuzzleBook.button1,Hecho
+TokenB1.text,Frente a ti hay una puerta de roble macizo; un tenue hedor dulzón y nauseabundo proviene de la habitación.
+EventKillRat.text,Buscas a tu alrededor algo con lo que acabar con el sufrimiento de la rata.
+TokenDiary.text,Diario personal del señor Winthrope.
+EventBallSearch.text,"La luz de la luna entra en el salón de baile a través de las ventanas. \n Coloca fichas de Búsqueda según se indica."
+EventPortal.text,"Cerca del cuerpo que flota hay un siniestro portal resplandeciente; unos tentáculos de color negro azabache parecen sujetar el cuerpo mientras la niebla sale a bortones del interior del portal. \n Coloca una ficha de Interacción según se indica."
+EventToilet.text,"¡Dios mío!, es incluso peor de lo que habías imaginado. \n El olor es abrumador y unas nubes de moscas negras zumban directamente hacia tu cara. Cierras la boca rápidamente para evitar tragarte una. \n El inodoro está atascado de excrementos, rebosando incluso. \n El olor te provoca arcadas pero si abres la boca para vomitar, seguro que te entrarán moscas. \n Coloca la ficha de Búsqueda. A continuación, sufre 2 de Horror boca abajo (anulados por {will})."
+TokenWindow.text,Por el rabillo del ojo vislumbras una figura sombría acechando fuera de la ventana.
+EventLobbyWall1.text,Coloca una ficha de Pared en el lugar señalado.
+EventDinW1.text,Coloca una ficha de Pared en el lugar señalado.
+EventCellarW1.text,Coloca una ficha de Pared en el lugar señalado.
+EventLibD1.text,Coloca una ficha de Exploración en el lugar señalado.
+EventBallD1.text,Coloca una ficha de Exploración en el lugar señalado.
+EventBallLibDoor.text,Coloca una ficha de Exploración en el lugar señalado.
+EventCelDoor.text,Coloca una ficha de Exploración en el lugar señalado.
+EventOfficeD1.text,Coloca una ficha de Exploración en el lugar señalado.
+EventHall1DinOff.text,Coloca una ficha de Exploración en el lugar señalado.
+EventDinD1.text,Coloca una ficha de Exploración en el lugar señalado.
+EventHall1Din.text,Coloca fichas de Exploración en los lugares señalados.
+EventHall1Doors.text,Coloca fichas de Exploración en los lugares señalados.
+EventHall2Doors.text,Coloca fichas de Exploración en los lugares señalados.
+EventHall2Door2.text,Coloca fichas de Exploración en los lugares señalados.
+EventHall1andBallRevealed.text,Coloca fichas de Exploración en los lugares señalados.
+EventHall1andHall2Revealed.text,Coloca fichas de Exploración en los lugares señalados.
+EventHall1Off.text,Coloca fichas de Exploración en los lugares señalados.
+EventLobbyDoors.text,Coloca las fichas de Exploración en las puertas que salen del vestíbulo.
+TokenInvestigators.text,Coloca a los investigadores en el lugar señalado.
+EventInvestigators.text,"Coloca a los investigadores en el lugar señalado.\n\n Todos los investigadores comienzan la partida con 2 Pistas {clue}."
+EventBed2search.text,Coloca fichas de Búsqueda en los lugares señalados.
+EventHall1Revealed.text,Coloca el módulo Vestíbulo en el lugar señalado.
+EventHall2Walls.text,Coloca fichas de Pared en los lugares señalados.
+EventSearchOffDesk.button1,Leer el diario
+TokenDiary.button1,Leer el diario
+TokenSightH1.button1,Revelar
+TokenHall2Hall1.button1,Revelar
+Spawn2.text,Coloca un Fantasma en el lugar señalado.
+Spawn1.text,Coloca un Esqueleto en el lugar señalado. A continuación, ganas 1 Pista {clue}.
+Spawn0.text,Coloca un Zombi en el lugar señalado. A continuación, ganas 1 Pista {clue}.
+EventSpawnSkeleton.text,De repente, un esqueleto se estrella contra la ventana norte y comienza a acercarse a ti.
+quest.authors_short,Tas4me2
+TokenPiano.text,Unos tentáculos de niebla acarician el piano de cola trepando por las patas y reptando perezosamente sobre las teclas.
+TokenPortal3.text,"Los tentáculos negros que emanan del portal continúan drenando la fuerza vital del cuerpo marchito de señor Winthrope mientras unas densas columnas de niebla se derraman por la habitación. \n\n Si el investigador posee uno de los objetos únicos encontrados en la mansión puede intentar cerrar el portal usando ese objeto. \n Pero solo podrá hacerlo si ha logrado evadir con éxito a la monstruosidad que le ataca o si la criatura ha sido eliminada."
+TokenPortal2.text,"Los tentáculos negros que emanan del portal continúan drenando la fuerza vital del cuerpo marchito de señor Winthrope mientras unas densas columnas de niebla se derraman por la habitación. \n\n El señor Winthrope fue capaz de crear el portal así que quizás alguno de los objetos que has encontrado podría cerrarlo. \n\n Si el investigador posee uno de los objetos únicos encontrados en la mansión puede intentar cerrar el portal usando ese objeto. \n Pero solo podrá hacerlo si ha logrado evadir con éxito a la monstruosidad que le ataca o si la criatura ha sido eliminada."
+TokenEarl.text,El cuerpo de señor Earl Winthrope III ahora no es más que un cadáver marchito y ajado al que le han succionado toda la esencia vital.
+TokenCellar1.text,La puerta del sótano frente a ti está envuelta en niebla; giras apresuradamente el pomo de la puerta mientras contienes la respiración.
+TokenBed.text,El cuerpo está cubierto con unas mantas. Un olor fétido proviene, sin lugar a dudas, de la cama.
+TokenDiningTable.text,"La mesa del comedor está repleta de platos con comidas a medio terminar. El moho cubre la mayor parte de los restos de comida. \n Lo más seguro es que nadie haya comido aquí en las dos últimas semanas."
+UI6.uitext,FIN
+EventPortalFail2.text,La energía que es absorbida por el portal parece vacilar brevemente. El flujo de niebla se retrae ligeramente hacia el vacío, pero también observas como los tentáculos negros cierran su presa alrededor del cuerpo de señor Winthrope y se niegan a soltarlo.
+EventHall2Hall1.text,"La niebla sigue espesándose y ahora se arremolina alrededor de tus muslos. \n Coloca el módulo {c:TileHall1} en el lugar señalado."
+EventBathroom.text,"La niebla continúa arremolinándose y fluyendo a tu alrededor mientras avanzas por el pasillo. \n Coloca el módulo {c:TileBathroom} y el módulo {c:TileHall2} en el lugar señalado."
+EventEarl.text,"La niebla impide casi totalmente la visión. A medida que tus ojos se ajustan a la penumbra, ves una figura suspendida en el aire. \n Este debe de ser señor Winthrope."
+EventDarkFog.text,"Apenas puedes ver algo con la niebla. \n Coloca fichas de Oscuridad en los lugares señalados. <b> Una fuente de luz no eliminará ni anulará los efectos de las fichas de Oscuridad debido a que está causada por la niebla."
+EventRatDiscovered.text,"La niebla emborrona tu visión. Apartas algunas cajas e intentas disipar la bruma agitando los brazos. \n ¡¡Es una RATA!! \n Atrapada en una trampa; por el olor está claro que lleva muerta varios días... Y, sin embargo, se mueve y se sacude violentamente. \n Ganas 1 Pista {clue}. "
+TokenHall2.text,"La niebla parece ser más densa aquí, filtrándose por debajo de la puerta. \n No estás seguro de que sea una buena idea abrir la puerta."
+EventMansionDoor.text,"La entrada principal de la Mansión Winthrope. \n Coloca una ficha de Exploración en el lugar señalado."
+TokenHall2Hall1.text,"El pasillo continúa a la vuelta de la esquina. \n Un investigador en esta zona puede revelar el área adyacente."
+TokenSightH1.text,"El pasillo continúa hacia lo más profundo de la mansión. \n Un investigador en esta zona puede revelar el área adyacente."
+TokenRat.text,Los golpes y ruidos sordos parecen provenir de detrás de unas cajas en el rincón.
+TokenLibS2.text,La barricada improvisada ha sido retirada de la entrada.
+EventPortalFail1.text,El portal parece debilitarse ligeramente y reducir un poco su tamaño; el flujo de niebla del portal también parece disminuir. Pero los tentáculos negros todavía sujetan con firmeza el cuerpo de señor Winthrope y continúan drenando la poca fuerza vital que le queda.
+EventPortalPass.text,El portal se cierra de golpe con un fuerte estruendo; simultáneamente, el cadáver marchito del señor Winthrope cae al suelo con un golpe seco. La niebla también ha desaparecido, absorbida por el vacío del portal. Con un gran jadeo, inhalas profundamente por primera vez con la sensación de que llevabas una eternidad sin poder hacerlo.
+TokenLob3.text,Un cartel con las palabras: SALÓN DE BAILE
+TokenLob5.text,Parece haber algo detrás de la puerta que impide que se abra por completo.
+TokenLobT2.text,En la mesita de noche hay un discreto teléfono.
+EventStart.text,"Una densa niebla impide que veas con claridad. Apenas puedes distinguir el camino que lleva a la entrada principal de la Mansión Winthrope. \n\n Coloca el módulo {c:TileSideYard2}"
+EventBallroomBlocked.text,"Por mucho que lo intentes, solo puedes abrir la puerta un poco. \n Al otro lado, un piano de cola impide que puedas abrir la puerta del todo."
+EventPuzzle.text,Intentas recomponer las páginas que faltan en los libros {observation}.
+EventPiano.text,"Aunque la inquietante niebla resulta de los más perturbadora, logras serenarte y examinas el piano. Lo que al principio pensaste que era una partitura es, de hecho, algo mucho más útil. \n Ganas el Hechizo {c:QItem12}."
+Spawn3.text,"Mientras intentas comprender qué está ocurriendo, una monstruosidad con tentáculos surge del portal decidida a devorar vuestras almas. \n Aparece un Vampiro Estelar en el lugar señalado."
+TokenMansionDoor.text,Unos jirones de densa niebla se filtran por debajo de la puerta.
+EventWhiskey.text,"Encuentras una botella de whisky oculta entre algunos libros de la estantería. \n Coloca el Objeto en el lugar señalado."
+EventSearchToken.text,"Apenas puedes distinguir una rejilla de drenaje en el camino. \n Coloca una ficha de Búsqueda en el lugar señalado."
+TokenBallblocked.text,No puedes mover el piano de cola colocado al otro lado de la puerta.
+EventB2bed.text,"Decides buscar debajo de la cama; contienes la respiración mientras te sumerges en la niebla en un intento de alcanzar la parte inferior de la cama. \n Encuentras el Objeto único {c:QItem16}."
+EventLibraryRevealed.text,"Es una biblioteca que parece haber sido rebuscada. Unos jirones de niebla lamen tus tobillos al entrar. \n Coloca el módulo {c:TileLibrary} en el lugar señalado."
+TokenB2.text,Encuentras una puerta de madera que lleva a una habitación lateral.
+EventBallroom.text,"Es un salón de baile; notas que los tentáculos de niebla comienzan a retorcerse y a enredarse alrededor de tus rodillas. \n Coloca el módulo {c:TileBallroom} en el lugar señalado."
+EventBedDesk2.text,Encuentras un objeto útil: {c:QItemMedicalBook}
+EventBedDesk3.text,Encuentras un objeto útil: {c:QItemScalpel}
+EventBedDesk1.text,Encuentras un objeto útil: {c:QItemSedative}
+EventDismantleBarricade.text,Desmontas la barricada que bloquea la puerta. Rebuscando entre los restos encuentras un par de  libros a los que les han arrancado páginas y tienen texto marcado con círculos de tinta roja.
+EventDiningRoom.text,"Entras en la zona del comedor y la cocina; la omnipresente niebla se arremolina alrededor de tus tobillos. \n Coloca el módulo {c:TileDining} en el lugar señalado."
+EventLobby.text,"Entras en el vestíbulo principal y encuentras una densa niebla que se arrastra por el suelo. \n Coloca el módulo {c:TileSideLobby} en el lugar señalado."
+EventD5fail.text,Por más que empujas lo logras abrir la puerta. Tal vez deberías probar con otra puerta.
+EventRatItem.text,"Encuentras un viejo {c:QItem11} y lo usas para acabar con la rata. \n Una mezcla de sangre viscosa y gusanos lo salpica todo mientras golpeas a la criatura. \n Sufres 1 de Horror boca abajo (anulado por {agility}: -1)."
+EventSearchOffDesk.text,Encuentras el diario personal de señor Winthrope escondido en el cajón inferior del escritorio.
+EventSearchT4.text,Encuentras el siguiente objeto útil: {c:QItem13}
+EventMustGo.text,"Se te plantea un dilema: todas las pistas apuntan a que el sótano es el origen de la niebla, pero cada vez que intentas bajar las escaleras, sientes que los tentáculos de niebla entran en tus pulmones, asfixiándote. \n\n Reúnes todo tu valor, inspiras profundamente y te lanzas escaleras abajo conteniendo la respiración tanto tiempo como sea humanamente posible. \n Coloca el módulo {c:TileStairs} en el lugar señalado."
+EventSearchD3.text,Has descubierto un objeto que te servirá: {c:QItem10}
+EventSearchT1.text,Has encontrado algo de utilidad: Ganas el Objeto {c:QItem5}
+EventSearchT2.text,Has encontrado algo de utilidad: Ganas el Objeto {c:QItem6}
+EventSearchT3.text,Has encontrado algo de utilidad: Ganas el Objeto {c:QItem7}
+EventSearchD1.text,Has encontrado algo de utilidad: Ganas el Objeto {c:QItem8}
+EventSearchD2.text,Has encontrado algo de utilidad: Ganas el Objeto {c:QItem9}
+EventOffice.text,"Has descubierto lo que parece ser el despacho de señor Winthrope. \n La niebla sigue espesándose a medida que te mueves por la mansión. \n Coloca el módulo {c:TileOffice} en el lugar señalado."
+EventEliminated.text,"No has logrado completar la investigación. \n Las monstruosidades no muertas ahora ya pueden vagar libremente por el reino de los mortales."
+TokenSearch1.text,Localizas una rejilla dañada en el camino; puedes oír unos gemidos salen de su interior.
+EventPuzzleComplete.text,"Logras reunir suficiente información para descifrar que alguien estaba investigando las propiedades restauradoras de la energía negativa. \n Ganas el Objeto único {c:QItem14} y 1 Pista {clue}."
+EventYouMayMove.text,Tienes la oportunidad de avanzar 1 espacio hacia la zona explorada.
+EventBallWindow.text,Te acercas a la ventana mirando hacia la oscuridad, buscando la figura sombría pero no logras vislumbrar nada entre la espesa niebla y la lúgubre luz de la luna.
+TokenB2Dresser.text,Te fijas en un tocador que tiene varios cajones entreabiertos.
+TokenB2bucket.text,Hay un cubo de madera apoyado contra la pared.
+EventHall1.text,"La puerta da a un pasillo; la niebla continúa espesándose y ahora se arremolina alrededor de tus muslos. \n Coloca el módulo {c:TileHall1} en el lugar señalado."
+EventBed2.text,"Abres la puerta y observas un dormitorio que parece que ha sido usado recientemente. La cama está sin hacer y el tocador tiene varios cajones entreabiertos. \n La omnipresente niebla continúa aumentando; los jirones se arremolinan a tu alrededor, agitándose mientras te mueves por la habitación. \n Coloca el módulo {c:TileBedMAD25} en el lugar señalado."
+EventLibraryD4.text,"Entras en una biblioteca en la que han estado rebuscando. \n\n Coloca el módulo {c:TileLibrary} en el lugar señalado."
+EventBedroomReveal.text,"Abres la puerta de lo que es obviamente un dormitorio y una mezcla de olores te asalta. Varias hierbas y flores secas cuelgan por toda la habitación desprendiendo un olor a  perfume viejo y rancio, pero incapaz de ocultar el abrumador hedor a podredumbre. \n La niebla parece más densa aquí. Podría ser tu imaginación, pero tienes la sensación de que la niebla trata de aferrarse a ti restringiendo tus movimientos. \n Coloca el módulo {c:TileBedroom} en el lugar señalado."
+EventPhoneDead.text,"Descuelgas el auricular; por desgracia, la línea telefónica está muerta. \n El pavor se apodera de ti al darte cuenta de que no puedes pedir ayuda si las cosas salen mal. \n Sufres 1 de Horror boca abajo (anulado por {will}: 2)."
+EventBucket.text,Registras el cubo, pero no hay nada dentro aunque parece que lo han usado como orinal a juzgar por el olor que desprende.
+EventB2Dresser.text,"Registras el tocador en busca de algo útil. Escondido al fondo de uno de los cajones encuentras algo. \n\n Ganas el Objeto común {c:QItem17}."
+EventLibS1.text,"Ves una silla y montones de libros apilados formando una barricada improvisada. \n\n Coloca una ficha de Búsqueda en el lugar señalado."
+EventBarBroken.text,"Una silla y montones de libros apilados formando una barricada improvisada. \n Coloca una ficha de Búsqueda en el lugar señalado."
+TokenLob1.text,Ves una sencilla puerta de madera que conduce hacia el interior de la mansión.
+TokenLobT3.text,Hay una mesa auxiliar apoyada contra la pared.
+TokenSedative.text,Ves un pequeño escritorio repleto de viejos frascos de medicina y viejas vendas manchadas de sangre reseca.
+TokenB2bed.text,Una cama sin hacer que da la impresión de que lleva semanas sin usarse a juzgar por el polvo que cubre las mantas.
+EventReadDiary.text,"Te sientas cómodamente y comienzas a leer el diario de señor Winthrope. A medida que lo lees te enteras de la tragedia familiar: Lady Winthrope falleció repentinamente a causa de una enfermedad misteriosa. El señor Winthrope quedó devastado y se negó a aceptar su muerte... \n\n Pero a medida que vas leyendo, el relato se vuelve cada vez más inconexo y lleno de desvaríos, con Winthorpe  jurando desesperadamente que encontrará la forma de traerla de vuelta."
+TokenLobP1.text,Desde aquí puedes ver el retrato de un caballero distinguido.
+EventAttempt2.text,"Estudias el flujo y reflujo de los pulsos de energía e intentas interrumpirlos utilizando la información obtenida del objeto único que descubriste. \n Haz una tirada de {lore} para usar el objeto."
+EventAttempt3.text,"Estudias el flujo y reflujo de los pulsos de energía e intentas interrumpirlos utilizando la información obtenida del objeto único que descubriste. \n Haz una tirada de {lore} para usar el objeto."
+EventAttempt1.text,"Estudias el flujo y reflujo de los pulsos de energía e intentas interrumpirlos utilizando la información obtenida del objeto único que descubriste. \n Haz una tirada de {lore} para usar el objeto."
+EventD5pass.text,Usando tu fuerza, logras retirar de la puerta la barricada improvisada de libros, permitiendo el paso hacia la habitación.
+EventAttempt7.text,"De repente tienes un momento de lucidez; seguramente habrá un artefacto arcano o un sello que haya utilizado para invocar el portal. \n Haz una tirada de {will} para usar el objeto único de tu inventario e identificar cuál puede ser el artefacto arcano."
+EventAttempt8.text,"De repente tienes un momento de lucidez; seguramente habrá un artefacto arcano o un sello que haya utilizado para invocar el portal. \n Haz una tirada de {will} para usar el objeto único de tu inventario e identificar cuál puede ser el artefacto arcano."
+EventAttempt9.text,"De repente tienes un momento de lucidez; seguramente habrá un artefacto arcano o un sello que haya utilizado para invocar el portal. \n Haz una tirada de {will} para usar el objeto único de tu inventario e identificar cuál puede ser el artefacto arcano."
+EventCellarRevealed.text,"Abres de golpe la puerta del sótano; la niebla parece agitarse ante tu presencia y te envuelve como si tratara de impedir que entrases. \n Coloca el módulo {c:TileCellar} en el lugar señalado."
+EventTimerFail.text,"Los latidos de tu corazón retumban en tus oídos; tus pulmones claman por aire. \n Incapaz de contener la respiración por más tiempo... inhalas y, al hacerlo, la niebla inunda tus pulmones, llenándolos. \n Unos tentáculos negros te atrapan y te elevan en el aire; mientras comienzas a perder la conciencia, tu fuerza vital se escapa lentamente de tu cuerpo, potenciando el portal."
+EventBreathe.text,"Tu visión comienza a nublarse y reprimes las ganas de respirar. \n Tienes que cerrar el portal... ¡YA!"
